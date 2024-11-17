@@ -9,4 +9,3 @@ This project is a web application that validates credit card numbers using the L
 1. Clone the repository
 2. Run `docker-compose up --build`
 3. Open [http://localhost:5173](http://localhost:5173) in your browser
-# credit-card-validator
